@@ -17,11 +17,3 @@ This will facilitate the use of BEMpp to solve engineering driven problems that 
 ## Contribute
 ---
 This project is a collaborative way to explore the BEMpp platform. I highly encourage making pull requests and playing with the code!
-
-## Support
----
-If you are having issues, you can e-mail me at alvaro.campos.ferreira@gmail.com
-
-## License
----
-This project is currently licensed under GNU GPL v.3
