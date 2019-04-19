@@ -1,4 +1,4 @@
-# BEMpp
+# Julia loves BEMpp
 These are explorations on the BEMpp platform. It consists mainly of Jupyter notebooks. 
 
 ## Instalation
